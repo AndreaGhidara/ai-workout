@@ -12,7 +12,7 @@ export default function Navbar() {
                     height={80}
                     alt=''
                 />
-                <div className='text-sm text-end'>
+                <div className='hidden text-sm text-end'>
                     <p>
                         Name: <span>Unknow</span>
                     </p>
